@@ -8,7 +8,7 @@ Determine the most frequent ratings for both Movies and TV Shows.
 Analyze content by release year, country, and duration.
 Investigate and classify content using specific criteria and keywords.
 ## Schema
-DROP TABLE IF EXISTS netflix;
+DROP TABLE IF EXISTS netflix; 
 CREATE TABLE netflix
 (
     show_id      VARCHAR(5),
